@@ -1,6 +1,6 @@
-# nownow_customer
+# nn_customer
 
-A new Flutter project.
+An older Flutter project.
 
 ## Getting Started
 
