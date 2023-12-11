@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "547949984778",
+    "project_id": "nownow-da456",
+    "storage_bucket": "nownow-da456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547949984778:android:a89e19eadf92ad4e3b33f3",
+        "android_client_info": {
+          "package_name": "de.nownow.nownow_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547949984778-gfbhtisnkbooqvk151nql4mclhrcv664.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.nownow.nownow_customer",
+            "certificate_hash": "43b923c5f5be05b7de3041ffb88e9dce2992fe9e"
+          }
+        },
+        {
+          "client_id": "547949984778-bss5qk83cn8cd2l37qmnpola6vm30te0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC05BfASKWoLNPF7FOsEwikCWeKQOZdq8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547949984778-bss5qk83cn8cd2l37qmnpola6vm30te0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

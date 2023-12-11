@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NowNow</string>
+    <string name="facebook_app_id">297711722287052</string>
+    <string name="fb_login_protocol_scheme">fb297711722287052</string>
+    <string name="facebook_client_token">8e622b0f35887f51320dd5757add7aa7</string>
+</resources>
